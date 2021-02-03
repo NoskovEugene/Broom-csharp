@@ -1,5 +1,6 @@
 ﻿using System;
 using BroomDLL;
+using CustomLogger;
 using static System.Console;
 
 namespace BroomConsole
