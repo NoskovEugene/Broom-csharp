@@ -5,6 +5,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <ApplicationIcon>Broom.ico</ApplicationIcon>
     <NoWin32Manifest>true</NoWin32Manifest>
+    <LangVersion>9</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
